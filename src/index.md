@@ -1,7 +1,7 @@
 ---
 title: Basicpage template
-author: Your Name
-shortbio: Short bio
+author: Titouan Lozac'h
+shortbio: M2 MPRI student @ ENS Paris-Saclay
 description-meta: Short bio for meta-data
 og-url: https://basicpage.github.io
 location: Location, office
