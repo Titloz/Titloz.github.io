@@ -11,21 +11,9 @@ picture: img/profile.png
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-<!---
-pronouns: He/Him
---->
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0009-0009-1069-4257
-<!---
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
---->
 github: titloz
-<!---
-linkedin: https://www.linkedin.com
---->
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
