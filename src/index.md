@@ -18,10 +18,7 @@ dblp: https://dblp.org/
 scholar: https://scholar.google.com/
 hal: https://hal.science/
 mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
+github: titloz
 linkedin: https://www.linkedin.com
 footer: >-
   Based on the
