@@ -1,25 +1,31 @@
 ---
-title: Basicpage template
+title: Titouan Lozac'h
 author: Titouan Lozac'h
-shortbio: M2 MPRI student @ ENS Paris-Saclay
-description-meta: Short bio for meta-data
-og-url: https://basicpage.github.io
-location: Location, office
-email: noreply@noemail.com
+shortbio: Masters (M2 MPRI) student @ ENS Paris-Saclay
+description-meta: M2 MPRI @ ENS Paris-Saclay
+og-url: https://titloz.github.io
+location: Paris, France
+email: $\lambda x,y. x.y$@ens-paris-saclay.fr titouan lozac_h 
 clickable-email: false
 picture: img/profile.png
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-pronouns: Pronouns
+<!---
+pronouns: He/Him
+--->
 og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
+orcid: 0009-0009-1069-4257
+<!---
 dblp: https://dblp.org/
 scholar: https://scholar.google.com/
 hal: https://hal.science/
 mastodon: https://lipn.info
+--->
 github: titloz
+<!---
 linkedin: https://www.linkedin.com
+--->
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
