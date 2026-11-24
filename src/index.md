@@ -5,7 +5,7 @@ shortbio: Masters (M2 MPRI) student @ ENS Paris-Saclay
 description-meta: M2 MPRI @ ENS Paris-Saclay
 og-url: https://titloz.github.io
 location: Paris, France
-email: ($\lambda x,y$ &rArr; $x.y$@ens-paris-saclay.fr) titouan lozac_h 
+email: ($\lambda xy$ &rArr; $x.y$@ens-paris-saclay.fr) titouan lozac_h 
 clickable-email: false
 picture: img/profile.png
 picture-round: false
@@ -20,6 +20,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
+<!---
 > [!NOTE]
 > This website is an example of what one can get with the `basicpage` template
 > designed for easy-to-create personal academic page.
@@ -45,12 +46,13 @@ You have the power of Markdown, powered by Pandoc to let you do what you want.
 > customisation you might need to now very basic CSS and/or HTML, but that's it
 > because we do not rely on any heavy machinery.
 
+--->
 # Publications
 
-This template provide JSON or Yaml parsers to handle data representing
-publications to put them in the nice following shape.
 
 ## Conference papers
+
+<!---
 
 ``` json {.paper}
 "title": "Towards automatic academic pages 2",
@@ -173,11 +175,13 @@ papers:
   "year": "???"
 }
 ```
+--->
 
 # Education
 
 Write whatever you want here.
 
+<!---
 # Teaching
 
 Write whatever you want here.
@@ -185,3 +189,4 @@ Write whatever you want here.
 # Community service
 
 Write whatever you want here.
+--->
