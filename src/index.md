@@ -5,7 +5,7 @@ shortbio: Masters (M2 MPRI) student @ ENS Paris-Saclay
 description-meta: M2 MPRI @ ENS Paris-Saclay
 og-url: https://titloz.github.io
 location: Paris, France
-email: $\lambda x,y. x.y$@ens-paris-saclay.fr titouan lozac_h 
+email: ($\lambda$ $x$, $y$ &rArr; $x$. $y$@ens-paris-saclay.fr) titouan lozac_h 
 clickable-email: false
 picture: img/profile.png
 picture-round: false
