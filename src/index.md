@@ -20,13 +20,28 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
+Hi! I'm a masters ([M2 MPRI](https://mpri-master.ens.fr/doku.php?id=start)) student at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) interested in certified compilation, high-level program optimization and analysis techniques. I also enjoy automated reasoning, in particular term rewriting systems.
+
 
 # Publications
 
-
 ## Conference papers
 
+``` yaml {.paper}
+title: Compass: Synthesis of Term Rewriting Systems with Bounded Completeness
+authors: with Marcel Ullrich, Albert Greaca and Sebastian Hack
+venue: POPL
+year: 2027
+files:
+  - text: PDF
+    type: pdf
+    src: https://compilers.cs.uni-saarland.de/papers/compass.pdf
+```
 
 # Education
 
+2026-2027: M2 MPRI
 
+2023-2027: ENS Paris-Saclay
+
+2021-2023: CPGE MP2I-MPI, Lycée Saint-Louis
