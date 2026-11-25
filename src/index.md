@@ -32,7 +32,7 @@ Bonjour! I'm a masters ([M2 MPRI](https://mpri-master.ens.fr/doku.php?id=start))
 "authors": "Marcel Ullrich, Titouan Lozac'h, Albert Greaca, Sebastian Hack",
 "venue": "Principles of Programming Languages (POPL)",
 "year": "2027",
-"files": [{"text" : "PDF", "type": "pdf", "src": "papers/POPL26-Rewrite_Rule_Synthesis.pdf"},
+"files": [{"text" : "PDF", "type": "pdf", "src": "files/POPL26-Rewrite_Rule_Synthesis.pdf"},
           {"text": "Formalization", "type": "code", "src": "https://zenodo.org/records/24468547"}]
 ```
 
